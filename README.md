@@ -1,2 +1,2 @@
-# decode-ep7
-Scheduled and Recurring Email Notifications with Python
+# Automate Slack and MS Teams Notifications using Go
+
